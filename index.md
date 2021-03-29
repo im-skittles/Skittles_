@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+### Hello!
+My name is Skittles_ !
 
-You can use the [editor on GitHub](https://github.com/im-skittles/Skittles_Project_Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a Social Engineering, OSINT, and physical security enthusiast.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Join me on my journey to better my Social Engineering skills, learn new things, and explore the nooks and crannies of redteaming!
 
-### Markdown
+## Socials
+# You can find me on:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Twitter
+[@sk1ttz](https://twitter.com/sk1ttz)
 
-```markdown
-Syntax highlighted code block
+# Discord
+Skittles#4569
 
-# Header 1
-## Header 2
-### Header 3
+# E-Mail
+HoundsSec@outlook.com
 
-- Bulleted
-- List
+### Current Projects:
 
-1. Numbered
-2. List
+## Social Engineering - Vishing Talk - Q1-2021
+I'm currently working on slides for an eventual talk I plan to give in the M3nt0rz discord community.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/im-skittles/Skittles_Project_Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
