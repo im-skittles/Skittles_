@@ -26,7 +26,7 @@ HoundsSec@outlook.com
 ## Current Projects:
 
 
-### Social Engineering - Vishing Talk - Q1-2021
+### Social Engineering - [Vishing Talk](https://docs.google.com/presentation/d/16fDMonQQrEZ1S7PIMxSCODteStDAhljjI5MedWElL_k/edit?usp=sharing) - Q1-2021
 
 I'm currently working on slides for an eventual talk I plan to give in the M3nt0rz discord community.
 
