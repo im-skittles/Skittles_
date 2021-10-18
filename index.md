@@ -1,16 +1,12 @@
-## Hello!
+# Skittles_
 
+I'm a Social Engineering, OSINT, physical security, and wireless (WiFi/Bluetooth) enthusiast, and Pentester at Shift.
 
-### My name is Skittles_ !
-
-I'm a Social Engineering, OSINT, and physical security enthusiast.
-
-Join me on my journey to better my Social Engineering skills, learn new things, and explore the nooks and crannies of redteaming!
+Join me on my journey to better my skills, learn new things, and explore the nooks and crannies of infosec.
 
 
 
 ## Socials
-
 
 ### Twitter
 [@sk1ttz](https://twitter.com/sk1ttz)
@@ -25,9 +21,8 @@ HoundsSec@outlook.com
 
 ## Current Projects:
 
-
-### Social Engineering - Vishing Talk - Q1-2021
-
-I'm currently working on [slides](https://docs.google.com/presentation/d/16fDMonQQrEZ1S7PIMxSCODteStDAhljjI5MedWElL_k/edit?usp=sharing) for an eventual talk I plan to give in the M3nt0rz discord community.
+### Matrix CTF - CTF Team Course
+A beginner pentesting course for younger audiences (Middle/High-school) to learn about pentesting methodology, and basic blue and red teaming skills, wrapping up with a CTF to show mastery.
 
 
+###Shift Pentest
